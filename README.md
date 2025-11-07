@@ -60,3 +60,8 @@ cd aei-energy-intelligence
 python -m venv .venv && source .venv/bin/activate  # (Windows: .venv\Scripts\activate)
 pip install -r requirements.txt
 python examples/minimal_microgrid/run_demo.py
+### 💰 Investor Demo (κ + Veyn)
+Run a quick comparison of baseline vs AEI with coherence metrics:
+
+```bash
+python examples/investor_demo/grid_savings_quantara.py
