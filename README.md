@@ -1,4 +1,5 @@
 # ⚡ AEI — Artificial Energy Intelligence  
+*The orchestration layer of Quantara’s Coherence Architecture*
 *A Quantara subsystem for predictive orchestration and ethical energy symbiosis*  
 *(Powered by Quantara’s Coherence Substrate)*  
 
