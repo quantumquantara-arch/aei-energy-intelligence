@@ -60,7 +60,7 @@ cd aei-energy-intelligence
 python -m venv .venv && source .venv/bin/activate  # (Windows: .venv\Scripts\activate)
 pip install -r requirements.txt
 python examples/minimal_microgrid/run_demo.py
----
+```
 
 ### 🌍 Quantara Ecosystem
 
