@@ -55,18 +55,15 @@ It embodies Quantara’s ethical framework within a tangible infrastructure: one
 Once you clone the repository on a computer:  
 
 ```bash
-git clone https://github.com/<your-username>/aei-energy-intelligence.git
+git clone https://github.com/quantumquantara-arch/aei-energy-intelligence.git
 cd aei-energy-intelligence
 python -m venv .venv && source .venv/bin/activate  # (Windows: .venv\Scripts\activate)
 pip install -r requirements.txt
 python examples/minimal_microgrid/run_demo.py
-
-### 💰 Investor Demo (κ + Veyn)
-Run a quick comparison of baseline vs AEI with coherence metrics.
 ---
 
-
 ### 🌍 Quantara Ecosystem
+
 **AEI — Artificial Energy Intelligence** operates as a living subsystem of  
 [**Quantara Core**](https://github.com/quantumquantara-arch/quantara-core) —  
 a coherence substrate for ethical, adaptive, and planetary intelligence.
