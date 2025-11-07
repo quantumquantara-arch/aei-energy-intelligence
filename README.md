@@ -62,3 +62,14 @@ pip install -r requirements.txt
 python examples/minimal_microgrid/run_demo.py
 ### 💰 Investor Demo (κ + Veyn)
 Run a quick comparison of baseline vs AEI with coherence metrics:
+---
+
+### 🌍 Quantara Ecosystem
+**AEI — Artificial Energy Intelligence** operates as a living subsystem of  
+[**Quantara Core**](https://github.com/quantumquantara-arch/quantara-core) —  
+a coherence substrate for ethical, adaptive, and planetary intelligence.
+
+Together they embody a unified architecture where technology aligns with  
+**transparency, harmony, and measurable coherence.**
+
+> “Energy is not extracted — it is conducted through the rhythm of awareness.”
